@@ -82,7 +82,7 @@ javac -cp .;mysql-connector-j-8.0.xx.jar EVotingSystem.java
 java -cp .;mysql-connector-j-8.0.xx.jar EVotingSystem
 ```
 
-🧠 Future Enhancements
+### 🧠 Future Enhancements
 Admin login for adding/updating candidates
 
 Voter registration and secure login system
@@ -93,11 +93,11 @@ Blockchain-style ledger for vote immutability
 
 Email notifications after voting
 
-👩‍💻 Developed By
+### 👩‍💻 Developed By
 Ekta Naresh Chandak
 B.Tech Artificial Intelligence and Data Science
 GitHub: ektachandak12
 LinkedIn: https://www.linkedin.com/in/ekta-chandak-bb43192b5/
 
-📜 License
+### 📜 License
 This project is open-source and free to use under the MIT License.

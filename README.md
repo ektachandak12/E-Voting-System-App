@@ -1,4 +1,4 @@
-# 🗳️ Secure and Transparent Electronic Voting System
+# 🗳️ Electronic Voting System
 
 A secure and transparent electronic voting system built using **Java Swing** for the user interface and **MySQL** for persistent storage. This application allows users to view candidates, vote using a unique voter ID, and view live results.
 
